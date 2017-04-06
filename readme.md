@@ -1,4 +1,4 @@
-# Elementary Electron
+# Elementary Electron from https://github.com/maxogden/elementary-electron
 
 A nodeschool workshop that teaches electron.
 
